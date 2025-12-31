@@ -1,7 +1,3 @@
-
-
-
-
 # Projet : Prédiction du taux de recours aux urgences
 
 ## Période 
