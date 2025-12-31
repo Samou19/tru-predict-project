@@ -12,9 +12,9 @@ J'ai réalisé ce projet en tant que **Data Scientist** chez *Innovation e-Sant�
 
 
 ## Stack technique
-- Python, R, Shiny, SQL, MLflow, Git, GitLab CI/CD, Linux, Docker.
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Docker](https://img.shields.io/badge/Docker-enabled-blue)
+- Python ![Python](https://img.shields.io/badge/Python-3.9-blue), R, Shiny, SQL, MLflow, Git, GitLab CI/CD, Linux, Docker ![Docker](https://img.shields.io/badge/Docker-enabled-blue).
+
+
 
 ## Contexte
 Enfin en avril 2023, le Président de la République a annoncé l’objectif de désengorger les structures des urgences à horizon fin 2024. Dans ce contexte, la DGOS a lancé en 2021 des travaux d’outillage des ARS (Agences Régionales de Santé), portés le plus souvent par des ARS pilotes volontaires. L'ARS Provence-Alpes-Côte d'Azur pilote le projet TRU.
